@@ -49,11 +49,6 @@ As the **Lead Developer**, I:
 3. **Enjoy Your Trip**:
    - Travel stress-free with everything managed in one app.
 
-## Screenshots 📸
-
-_(Add mockups or generic screenshots if the original visuals are confidential.)_
-
----
 
 Download **FlightSouk** today and plan your next trip effortlessly!  
 
